@@ -52,6 +52,8 @@ public class ThirtyDays{
 		}
 
 		System.out.println( days + " days hath " + monthName );
+		System.out.println( "new git hereeee" );
+
 
 	}
 }
